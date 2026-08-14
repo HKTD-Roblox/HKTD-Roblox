@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+HKTD+Roblox;Chào+mừng+đến+với+thế+giới+code!+✨;+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+HKTD+Roblox;Chào+mừng+đến+với+thế+giới+code!+✨;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 ## 🎯 VỀ BẢN THÂN - ABOUT ME
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trìn;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;❤️+Tôi+làm+mọi+thứ+tôi+thích+về+công+nghệ;⚡+Fact:+Thường+dùng+AI+để+code+hihi!" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trình;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;❤️+Tôi+làm+mọi+thứ+tôi+thích+về+công+nghệ;⚡+Fact:+Thường+dùng+AI+để+code+hihi!" alt="About Me Animation" />
 </div>
 
 <div align="center">
